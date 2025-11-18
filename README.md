@@ -11,7 +11,7 @@ The project demonstrates:
 
 ## Files
 - index.html  
-- style.css  
+- style.css  -
 - script.js  
 - LICENSE  
 - README.md  
